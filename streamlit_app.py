@@ -1,5 +1,2 @@
-git init
-git remote add origin https://github.com/shub564/vcp-screener.git
-git add .
-git commit -m "Initial commit"
-git push -u origin main
+st.title("VCP Stock Screener")
+st.write("Welcome to the first version of the VCP screener.")
